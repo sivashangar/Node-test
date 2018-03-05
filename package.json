@@ -1,0 +1,26 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "Sample Project using Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivashangar/Node-test.git"
+  },
+  "keywords": [
+    "For",
+    "Test"
+  ],
+  "author": "Sivashangar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sivashangar/Node-test/issues"
+  },
+  "homepage": "https://github.com/sivashangar/Node-test#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
